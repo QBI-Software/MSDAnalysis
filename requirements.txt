@@ -37,6 +37,6 @@ sip==4.19.3
 six==1.11.0
 tabulate==0.8.2
 traitlets==4.3.2
-urllib3==1.24.2
+urllib3==1.26.5
 wxPython==4.0.0b2
 xlrd==1.1.0
